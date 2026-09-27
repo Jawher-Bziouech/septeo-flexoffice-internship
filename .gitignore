@@ -1,0 +1,16 @@
+# This repository is a portfolio case study.
+# Original company source code and configuration must not be committed.
+
+.env
+.env.*
+!.env.example
+appsettings.*.json
+*.user
+*.suo
+.vs/
+.idea/
+.vscode/
+bin/
+obj/
+node_modules/
+dist/
